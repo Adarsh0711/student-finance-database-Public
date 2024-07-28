@@ -1,0 +1,6 @@
+LoanID,LoanProvider,LoanAmount,InterestRate
+1,Federal Loan,9111,1
+2,Private Loan,9333,2
+3,State Loan,2991,2
+4,Subsidized Loan,1608,5
+5,Unsubsidized Loan,8767,3
